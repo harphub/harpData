@@ -1,6 +1,6 @@
 Package: harpData
 Title: Example Data for harp.
-Version: 0.0.0.9000
+Version: 0.0.0.9002
 Authors@R: as.person(c(
     "Andrew Singleton <andrewts@met.no> [aut, cre]"
   ))
