@@ -1,0 +1,10 @@
+Package: harpData
+Title: Example Data for harp.
+Version: 0.0.0.9000
+Authors@R: as.person(c(
+    "Andrew Singleton <andrewts@met.no> [aut, cre]"
+  ))
+Description: Raw data for use in harp examples, training and vignettes.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
