@@ -65,7 +65,7 @@ harpData_info <- function(
       fctable_fcst_type,
       "det" = list(
         dir        = system.file(
-          "fctable", "deterministic", package = "harpData"
+          "FCTABLE", "deterministic", package = "harpData"
         ),
         start_date  = 2019021700,
         end_date    = 2019021718,
@@ -73,7 +73,7 @@ harpData_info <- function(
       ),
       "ens" = list(
         dir        = system.file(
-          "fctable", "ensemble", package = "harpData"
+          "FCTABLE", "ensemble", package = "harpData"
         ),
         start_date  = 2019021700,
         end_date    = 2019021718,
